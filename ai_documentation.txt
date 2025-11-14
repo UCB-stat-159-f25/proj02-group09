@@ -1,0 +1,20 @@
+Prompts and output from AI. Please also list which AI was used.
+
+John Jacobsen <jjacobsen@berkeley.edu> 
+
+Marcos Negrete <marcos.negrete@berkeley.edu>,
+
+Evan Vlahos <evlahos@berkeley.edu>,
+
+Lillie Wang <lillie-wang@berkeley.edu>
+Used ChatGPT
+--> Prompts included: 
+What does plt.margins do?
+
+--> AI Output included:
+plt.margins() adds extra space (a percent margin) around the data limits.
+It does NOT:
+remove ticks
+change which tick labels show
+clip data
+control axis start/end exactly
