@@ -3,6 +3,8 @@ John Jacobsen <jjacobsen@berkeley.edu>
 
 Marcos Negrete <marcos.negrete@berkeley.edu>
 
+Part 3
+
 Evan Vlahos <evlahos@berkeley.edu>
 
 Lillie Wang <lillie-wang@berkeley.edu> --> 
