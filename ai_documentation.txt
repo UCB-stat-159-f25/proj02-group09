@@ -4,8 +4,23 @@ John Jacobsen <jjacobsen@berkeley.edu>
 
 Marcos Negrete <marcos.negrete@berkeley.edu>,
 
+-------------------------------------------------------------
 Evan Vlahos <evlahos@berkeley.edu>,
+ChatGPT
+Prompt: How do you rewrite this line to use spaCY token attributes
+speeches2000["Tokens"] = speeches2000["Raw Tokens"].apply(lambda x: [w.lower() for w in x if not is_stop(w) and not is_punct(w) and not is_space(w)])
 
+Response: speeches2000["Tokens"] = speeches2000["Raw Tokens"].apply(
+    lambda doc: [t.text.lower() for t in doc 
+                 if not t.is_stop and not t.is_punct and not t.is_space])
+
+Prompt: Fix ValueError: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+Response: Use bitwise operators '&' and parentheses
+
+Prompt: How do you Join 2 pandas data frames on a column?
+Response: df_merged = df1.merge(df2, on="column_name")
+
+-----------------------------------------------------------
 Lillie Wang <lillie-wang@berkeley.edu>
 Used ChatGPT
 --> Prompts included: 
