@@ -1,5 +1,6 @@
 ### Contribution statement
 John Jacobsen <jjacobsen@berkeley.edu> 
+I completed nlp-P02, and contributed to the ai_documentation.
 
 Marcos Negrete <marcos.negrete@berkeley.edu>
 
