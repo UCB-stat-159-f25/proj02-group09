@@ -6,7 +6,7 @@ Link for Binder:
 ### Part 1
 Import CSV file into the pandas dataframe, perform exploratory data analysis, and comment on results. By using functions like value_counts(), unique(), mean(), sort_index(), groupby(), and reindex() to organize the data. By using different plot functions to create plots, visual interpretation is possible. 
 ### Part 2
- 
+ This notebook implements fundamental text processing and vectorization techniques on State of the Union (SOTU) speeches, demonstrating core NLP methods for document analysis and preparing text data for machine learning applications.
 ### Part 3
 Using the LDA Model and Berttopic to output the top 10 words for each topic, the topic distribution for the first speech and creating a visualization for those outputs. Using the "sou" data that was used in part 2. 
 ### Part 4
