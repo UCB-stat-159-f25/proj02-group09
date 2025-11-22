@@ -10,3 +10,4 @@ Import CSV file into the pandas dataframe, perform exploratory data analysis, an
 ### Part 3
 
 ### Part 4
+Classification model: Build a classifier to detect democratic versus republican state of the union speeches using 100 random speeches to train the model, and the remaining to test. Train using only democratic, republican, independent, and whig categories.
