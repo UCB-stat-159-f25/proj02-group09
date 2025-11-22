@@ -1,12 +1,16 @@
 Prompts and output from AI. Please also list which AI was used.
 
 John Jacobsen <jjacobsen@berkeley.edu> 
-I used ai to help:
+I used claude.ai to help:
 Set up conda environment and install SpaCy language model via terminal commands
 Create nlp-P02.ipynb notebook with text processing pipelines to extract and analyze tokens vs lemmas from State of the Union speeches
 Develope functions to compare word frequencies between years (2023 vs 2017) with accompanying visualizations
 Implemented TF-IDF vectorization on 246 speeches with PCA dimensionality reduction
 Generated scatter plots and heatmaps saved to outputs folder
+
+prompts included:
+"how long should it take to Installing pip dependencies"
+"where should I put the cell with import os os.makedirs('outputs', exist_ok=True)"
 -------------------------------------------------------------
 
 Marcos Negrete <marcos.negrete@berkeley.edu>,
