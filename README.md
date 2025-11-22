@@ -8,6 +8,6 @@ Import CSV file into the pandas dataframe, perform exploratory data analysis, an
 ### Part 2
  
 ### Part 3
-
+Using the LDA Model and Berttopic to output the top 10 words for each topic, the topic distribution for the first speech and creating a visualization for those outputs. Using the "sou" data that was used in part 2. 
 ### Part 4
 Classification model: Build a classifier to detect democratic versus republican state of the union speeches using 100 random speeches to train the model, and the remaining to test. Train using only democratic, republican, independent, and whig categories.
