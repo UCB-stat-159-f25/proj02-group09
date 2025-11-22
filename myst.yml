@@ -15,7 +15,12 @@ project:
       title: Read Me
     - file: nlp-P01.ipynb
       title: Part 1 
-    
+    - file: nlp-P02.ipynb
+      title: Part 2
+    - file: nlp-P03.ipynb
+      title: Part 3
+    - file: nlp-P04.ipynb
+      title: Part 4
 site:
   template: book-theme
   # options:
