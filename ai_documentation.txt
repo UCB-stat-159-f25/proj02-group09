@@ -4,6 +4,15 @@ John Jacobsen <jjacobsen@berkeley.edu>
 
 Marcos Negrete <marcos.negrete@berkeley.edu>,
 
+ChatGPT
+Prompt: How to use git stash
+Output: 
+git stash
+git stash save "WIP: changes for plotting"
+2. List stashed changes
+git stash list
+
+Prompt: What do 
 -------------------------------------------------------------
 Evan Vlahos <evlahos@berkeley.edu>,
 ChatGPT
